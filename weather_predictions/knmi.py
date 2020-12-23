@@ -1,5 +1,5 @@
 # imports
-#import requests
+import requests
 import pandas as pd
 import datetime as dt
 import io
